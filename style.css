@@ -154,3 +154,7 @@ body{
     right: 38px;
     z-index: -1;
 }
+
+.setting-buttons i {
+    display: none;
+}
